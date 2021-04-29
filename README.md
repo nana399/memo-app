@@ -1,24 +1,24 @@
-# README
+# 読書メモアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 目的
+- このアプリ作成を通じてGitHubのissue管理を学ぶ
+- Rspecを少しでも書いて理解する
 
-Things you may want to cover:
+# アプリの概要
+簡単に本の感想を残しておけるアプリ。
+<br>
+```
+- なぜその本を読もうと思ったのか
+- その本から何をを学びたいのか
+- その本から得られたことは何なのか
+```
+を記録する
 
-* Ruby version
+# 作業の流れ
+githubでissue管理を行い開発をしていく
+<br>
 
-* System dependencies
+### ❏ 参考
+[未経験がWeb系転職成功したいならgithubでissue管理して開発しよう - Qiita](https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b)
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
