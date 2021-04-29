@@ -1,8 +1,6 @@
 Rails.application.routes.draw do
-  get 'memos/index'
-  get 'memos/show'
-  get 'memos/new'
-  get 'memos/edit'
+  root to: 'memos#index'
+  resources :tasks
   get 'home', to: 'home#index'
 
   namespace :api, format: 'json' do
