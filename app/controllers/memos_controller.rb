@@ -6,6 +6,7 @@ class MemosController < ApplicationController
   end
 
   def new
+    @memo = Memo.new
   end
 
   def edit
